@@ -5,10 +5,15 @@
 //boiler plate and setup codes---------------------------------------
 string data;
 
-Random rnd = new Random();
-int ran = rnd.Next(5000);
+//next---------------------------------
+int ran = ran + 1;
+
+// Random rnd = new Random();
+// int ran = rnd.Next(5000);
+
 // Console.WriteLine(ran);
 
+int ran = 0;
 StreamReader reader = new StreamReader("/Users/alokpandey/Desktop/aaa/nasa_data_f.csv");
 data = reader.ReadLine();
 // Console.WriteLine(data);
@@ -47,6 +52,7 @@ string orb_p = listA[3];
 string radi = listA[4];
 string mass = listA[5];
 string temp = listA[6];
+
 
 foreach (var dat in listA){
 Console.WriteLine(dat);}
