@@ -45,7 +45,7 @@ foreach (var item in values)
 
 
 //to make a variable for each parameter of planet-----------------------------
-string name = listA[0];
+var name = listA[0];
 string sun_n = listA[1];
 string year = listA[2];
 string orb_p = listA[3];
@@ -53,6 +53,7 @@ string radi = listA[4];
 string mass = listA[5];
 string temp = listA[6];
 
+Console
 
 foreach (var dat in listA){
 Console.WriteLine(dat);}
