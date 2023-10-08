@@ -1,0 +1,14 @@
+/Users/alokpandey/Desktop/aaa/firstcode/bin/Debug/net7.0/firstcode
+/Users/alokpandey/Desktop/aaa/firstcode/bin/Debug/net7.0/firstcode.deps.json
+/Users/alokpandey/Desktop/aaa/firstcode/bin/Debug/net7.0/firstcode.runtimeconfig.json
+/Users/alokpandey/Desktop/aaa/firstcode/bin/Debug/net7.0/firstcode.dll
+/Users/alokpandey/Desktop/aaa/firstcode/bin/Debug/net7.0/firstcode.pdb
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.AssemblyInfoInputs.cache
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.AssemblyInfo.cs
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.csproj.CoreCompileInputs.cache
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.dll
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/refint/firstcode.dll
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.pdb
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/firstcode.genruntimeconfig.cache
+/Users/alokpandey/Desktop/aaa/firstcode/obj/Debug/net7.0/ref/firstcode.dll
