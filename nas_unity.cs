@@ -13,7 +13,7 @@ public class TextScript : MonoBehaviour
 
         var c = "100";
 
-        text.text = name ;
+        text.text = c ;
         //myText.GetComponent<Text›().text = "second one";
 
 
